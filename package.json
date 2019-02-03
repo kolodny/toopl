@@ -1,0 +1,20 @@
+{
+  "name": "toopl",
+  "version": "0.0.0",
+  "description": "Create a tuple from arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/toopl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolodny/toopl/issues"
+  },
+  "homepage": "https://github.com/kolodny/toopl#readme"
+}

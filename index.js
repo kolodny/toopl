@@ -1,0 +1,1 @@
+exports.tuple = (...args) => args;
